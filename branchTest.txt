@@ -2,3 +2,4 @@
 2. Pyqt5- 1차까지 완료
 3. Pygame
 4. drawble - 시간이 이미지 추가
+5. new line
