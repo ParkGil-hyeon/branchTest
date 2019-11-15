@@ -3,3 +3,4 @@
 3. Pygame
 4. drawble - 시간이 이미지 추가
 5. new line
+6. 3 test
